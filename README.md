@@ -1,5 +1,5 @@
 # ESP32-CW
-ESP32 generate CW (Morse) ; Text to be converted in Morse, is written in an android application  using Bluetooth connectio 
+ESP32 software to generate CW (Morse) ; Text to be converted in Morse, is typed in an android application  using Bluetooth connectio 
 Tis text is forwarded to an ESP32 board connected to a buzzer. Any ESP32 board can be used, GPIO pins for LED and Buzzer must be modified in Arduino software
 
 esp32_ble_X_CW.ino   : software for ESP32 DEVKIT MH-ET-LIVE board ( approx 6€ ) a buzzer is attached to GPIO pin 22 and LED pin 2 is also used (to be compiled with Arduino IDE with ESP32 support)
