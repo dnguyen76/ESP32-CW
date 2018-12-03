@@ -9,4 +9,7 @@ BLE_ESP32_CW_V1.apk : For android smartphone compatible with android 5.0 and upp
 
 Nota: To install ESP32 support in Arduino IDE follow these instructions https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md
 
+Many thanks to arduinoboy for his very knowledgeable tutorial about how to create a simple Android app for two-way communication between your mobile device and the ESP32 using Bluetooth Low Energy   https://www.instructables.com/id/ESP32-BLE-Android-App-Arduino-IDE-AWESOME/
+
+Look to this tutorial to get more detailed information about Bluetooth LE code in ESP32 software and Android App code
 
